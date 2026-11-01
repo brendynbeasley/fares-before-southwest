@@ -1,0 +1,23 @@
+quantity,value
+"R: incumbent low, entrant low",10.3125
+"entrant profit less K: incumbent low, entrant low",-0.75
+"R: incumbent low, entrant high",9.1181
+"entrant profit less K: incumbent low, entrant high",-2.3056
+"R: incumbent high, entrant low",9.75
+"entrant profit less K: incumbent high, entrant low",2.0
+"R: incumbent high, entrant high",8.8889
+"entrant profit less K: incumbent high, entrant high",0.1111
+"monopoly output, low-cost incumbent",4.75
+"monopoly price, low-cost incumbent",5.25
+"monopoly profit, low-cost incumbent",22.5625
+"monopoly output, high-cost incumbent",4.0
+"monopoly price, high-cost incumbent",6.0
+"monopoly profit, high-cost incumbent",16.0
+least separating output,7.1225
+separating output in the paper,7.2
+price at the separating output,2.8
+markdown below the low-cost monopoly price,0.4667
+low-cost payoff at 7.2 if every entrant stays out (p = 0),26.8725
+high-cost payoff from copying 7.2 (p = 0),15.51
+pooling: low-cost entrant comes in when q exceeds,0.2727
+pooling: high-cost entrant comes in when q exceeds,0.954
